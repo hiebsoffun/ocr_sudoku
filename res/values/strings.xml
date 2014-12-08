@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    
+    <!-- sudoku activity --> 
+    
+    <string name="main_title">Android Sudoku</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="photo_label">Photo</string>
+    <string name="exit_label">Exit</string>
+    
+    
+    <!-- about activity -->
+    
+    <string name="about_title">About Android Sudoku</string>
+    <string name="about_text">\
+        Sudoku (jap. \u3059 \u3046 \u3069 \u304F) is a short term for <i>Suji wa dokushin ni kagiru</i> and can be translated with <i>isolate numbers</i>.
+        It is a logic-based number placement puzzle which was in its first form invented by Leonhard Euler.
+        For playing instructions visit the internet.
+    </string>
+    
+    
+    <!-- menu activity -->
+    
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">Sudoku settings</string>
+    <string name="settings_shortcut">s</string>
+    
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play background music</string>
+    <string name="debug_title">Debugging</string>
+    <string name="debug_summary">Stores debug information to /sdcard/.Sudoku</string>
+    
+    
+    <!-- game activity -->
+    
+    <string name="new_game_title">Difficulty</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+    
+    <string name="game_title">Game</string>
+    <string name="no_moves_label">No moves</string>
+    <string name="keypad_title">Keypad</string>
+    
+    <string name="grid_settings_label">Grid Settings</string>
+    <string name="grid_settings_title">Grid settings</string>
+    <string name="grid_settings_shortcut">s</string>
+    <string name="grid_auto_fill_label">Solve the grid</string>
+    <string name="grid_auto_fill_title">Solve the grid</string>
+    <string name="grid_auto_fill_shortcut">f</string>
+    
+    
+    <string name="colored_hints_title">Colored hints</string>
+    <string name="colored_hints_summary">Colors the tiles of the board in green. The darker the green tint is, the less is the number of acceptable solutions for a certain tile.</string>
+   	<string name="numbered_hints_title">Numbered hints</string>
+   	<string name="numbered_hints_summary">Shows valid numbers per tile.</string>
+    
+    <!-- LogCat debug Tag -->
+    
+    <string name="debug_tag">Sudoku</string>
+            
+
+</resources>
